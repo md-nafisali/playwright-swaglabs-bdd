@@ -30,7 +30,7 @@ test.describe("Login Functionality", () => {
     });
 
     await allure.step("Verify inventory title is Products", async () => {
-      await expect(await inventoryPage.getTitleText()).toBe("Product");
+      await expect(await inventoryPage.getTitleText()).toBe("Products");
     });
   });
 

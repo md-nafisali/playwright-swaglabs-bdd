@@ -80,7 +80,6 @@ test.describe("Login Functionality", () => {
 
     await allure.step("Verify username required error", async () => {
       const error = await loginPage.getErrorMessageText();
-      console.log(error);
       await expect(error).toContain("Username is required");
     });
   });

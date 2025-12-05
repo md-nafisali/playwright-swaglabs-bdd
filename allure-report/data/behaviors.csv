@@ -1,0 +1,5 @@
+"BROKEN","EPIC","FAILED","FEATURE","PASSED","SKIPPED","STORY","UNKNOWN"
+"0","Authentication","0","Login","3","0","Missing Password","0"
+"0","Authentication","0","Login","3","0","Invalid Login","0"
+"0","Authentication","0","Login","3","0","Missing Username","0"
+"0","Authentication","0","Login","3","0","Valid Login","0"
